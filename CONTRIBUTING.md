@@ -16,8 +16,9 @@ Los scripts de esa carpeta combinan líneas de dos o tres listas para armar word
 
 - Nombrá el script `generar_<categoria1>_<categoria2>[_<categoria3>].py`, y la salida que produce `wordlist_<categoria1>_<categoria2>[_<categoria3>].txt`.
 - Reutilizá `nucleo_wordlist.py` (la función `generar()`) en vez de reimplementar la lógica de combinación o limpieza de texto.
-- El script solo debería declarar `ARCHIVOS` (rutas relativas a la raíz del repo) y `ARCHIVO_SALIDA`, y llamar a `generar(ARCHIVOS, ARCHIVO_SALIDA)`.
-- No subas los `.txt` generados (pueden pesar varios GB); agregalos a `.gitignore` si no está ya cubierto.
+- El script solo debería declarar `ARCHIVOS` (rutas relativas a la raíz del repo) y `ARCHIVO_SALIDA` (solo el nombre de archivo, sin ruta), y llamar a `generar(ARCHIVOS, ARCHIVO_SALIDA)`.
+- No hace falta indicar una carpeta de salida: `generar()` escribe siempre en `output/` (la crea si no existe), sin importar desde dónde se ejecute el script.
+- No subas los `.txt` generados (pueden pesar varios GB); la carpeta `output/` ya está en `.gitignore`.
 
 ## Pull requests
 

@@ -3,7 +3,7 @@ Modulo compartido para los scripts generar_<categoria1>_<categoria2>[_<categoria
 
 Convencion del proyecto:
   - Script:  generar_<cat1>_<cat2>[_<cat3>].py
-  - Salida:  wordlist_<cat1>_<cat2>[_<cat3>].txt
+  - Salida:  output/wordlist_<cat1>_<cat2>[_<cat3>].txt
   - El orden de las categorias en el nombre = orden de concatenacion en ARCHIVOS.
 
 Cada script "generar_*.py" solo define ARCHIVOS y ARCHIVO_SALIDA (y opcionalmente
@@ -19,16 +19,31 @@ LARGO_MIN_DEFAULT = 8
 LARGO_MAX_DEFAULT = 10
 
 # Raiz del proyecto = carpeta que contiene a "generadores/" (donde vive este
-# archivo). Las rutas de ARCHIVOS y ARCHIVO_SALIDA de cada script se escriben
-# relativas a esa raiz (ej. "personas/nombres.txt"), y se resuelven aqui para
-# que funcionen sin importar desde donde se ejecute python (la raiz del
-# proyecto, dentro de generadores/, etc).
+# archivo). Las rutas de ARCHIVOS de cada script se escriben relativas a esa
+# raiz (ej. "personas/nombres.txt"), y se resuelven aqui para que funcionen
+# sin importar desde donde se ejecute python (la raiz del proyecto, dentro de
+# generadores/, etc).
 RAIZ = Path(__file__).resolve().parent.parent
+
+# Todas las wordlists generadas caen en esta misma carpeta, sin importar
+# desde donde se ejecute el script.
+OUTPUT_DIR = RAIZ / "output"
 
 
 def _resolver(ruta):
     p = Path(ruta)
     return p if p.is_absolute() else RAIZ / p
+
+
+def _resolver_salida(ruta):
+    """ARCHIVO_SALIDA de cada script es solo un nombre de archivo (ej.
+    'wordlist_apodos_anios.txt'); esto lo ubica siempre en OUTPUT_DIR,
+    creando la carpeta si todavia no existe."""
+    p = Path(ruta)
+    if p.is_absolute():
+        return p
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    return OUTPUT_DIR / p.name
 
 
 def limpiar(texto):
@@ -71,7 +86,8 @@ def generar(archivos, archivo_salida, largo_min=LARGO_MIN_DEFAULT,
     escritas = 0
     ultimo_reporte = 0
 
-    with open(_resolver(archivo_salida), "w", encoding="utf-8", buffering=1024 * 1024) as salida:
+    ruta_salida = _resolver_salida(archivo_salida)
+    with open(ruta_salida, "w", encoding="utf-8", buffering=1024 * 1024) as salida:
         for cantidad in range(1, n + 1):
             for combo_indices in itertools.permutations(range(n), cantidad):
                 buckets_elegidos = [buckets_por_archivo[i] for i in combo_indices]
@@ -103,5 +119,5 @@ def generar(archivos, archivo_salida, largo_min=LARGO_MIN_DEFAULT,
                               f"({escritas/transcurrido:,.0f} lineas/s)", flush=True)
 
     transcurrido = time.time() - inicio
-    print(f"TOTAL: {escritas:,} lineas en '{archivo_salida}' ({transcurrido:.1f}s)")
+    print(f"TOTAL: {escritas:,} lineas en '{ruta_salida.relative_to(RAIZ)}' ({transcurrido:.1f}s)")
     return escritas

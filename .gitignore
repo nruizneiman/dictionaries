@@ -1,5 +1,5 @@
 # Wordlists generadas (pueden pesar varios GB, no se versionan)
-wordlist_*.txt
+output/
 pin.txt
 num.txt
 alfanum.txt

@@ -86,9 +86,11 @@ Scripts que combinan líneas de dos o tres de las listas anteriores para armar w
 
 Convención de nombres:
 - Script: `generar_<categoria1>_<categoria2>[_<categoria3>].py`
-- Salida: `wordlist_<categoria1>_<categoria2>[_<categoria3>].txt` (se escribe siempre en la raíz del proyecto, sin importar desde dónde se ejecute el script)
+- Salida: `output/wordlist_<categoria1>_<categoria2>[_<categoria3>].txt`
 
-La lógica común (limpieza de texto, armado de combinaciones, resolución de rutas) vive en `nucleo_wordlist.py`; cada `generar_*.py` solo declara sus archivos de entrada y de salida.
+Todos los generadores escriben en la carpeta `output/` en la raíz del proyecto (se crea sola si no existe), sin importar desde dónde se ejecute el script. Esa carpeta no se versiona (ver `.gitignore`).
+
+La lógica común (limpieza de texto, armado de combinaciones, resolución de rutas) vive en `nucleo_wordlist.py`; cada `generar_*.py` solo declara sus archivos de entrada y el nombre del archivo de salida.
 
 ### Quick start
 
@@ -103,7 +105,7 @@ Salida esperada:
 ```
 naturaleza/mascotas.txt: 570 palabras unicas
 cosas/fechas_anios_argentina.txt: 321 palabras unicas
-TOTAL: 168,111 lineas en 'wordlist_mascotas_anios.txt' (0.0s)
+TOTAL: 168,111 lineas en 'output/wordlist_mascotas_anios.txt' (0.0s)
 ```
 
-El archivo generado (`wordlist_mascotas_anios.txt`) queda en la raíz del repo y no se versiona (ver `.gitignore`). Funciona igual si lo corrés desde la raíz del repo o desde adentro de `generadores/`.
+El archivo generado queda en `output/wordlist_mascotas_anios.txt`, en la raíz del repo, y esa carpeta no se versiona (ver `.gitignore`). Funciona igual si lo corrés desde la raíz del repo o desde adentro de `generadores/`.
