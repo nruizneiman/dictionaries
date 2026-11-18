@@ -81,9 +81,7 @@ Colección de listas de palabras sobre Argentina, en archivos `.txt` de texto pl
 - La lista de discos argentinos se descartó por falta de datos confiables.
 
 ## Otros archivos
-
-- `alfanum.py`: genera variantes alfanuméricas (palabra + sufijo numérico) a partir de las palabras más comunes del español y nombres/apellidos de Faker.
-- `pin.txt`: 100.000.000 de PINs numéricos de 8 dígitos (`00000000`–`99999999`), uno por línea.
+- `generar_pins.py`: 100.000.000 de PINs numéricos de 8 dígitos (`00000000`–`99999999`), uno por línea.
 
 ## Carpeta `generadores/`
 
