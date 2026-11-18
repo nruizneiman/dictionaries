@@ -40,7 +40,7 @@ Colección de listas de palabras sobre Argentina, en archivos `.txt` de texto pl
 | | `sustantivos.txt` | 517 | Memoria |
 | | `lunfardo.txt` | 259 | Memoria |
 | | `frases_refranes.txt` | 103 | Memoria |
-| `naturaleza/` | `mascotas.txt` | 571 | Memoria |
+| `naturaleza/` | `mascotas.txt` | 570 | Memoria |
 | | `animales.txt` | 274 | Memoria |
 | | `plantas.txt` | 244 | Memoria |
 | `cosas/` | `vehiculos_modelos.txt` | 418 | Memoria |
@@ -81,7 +81,9 @@ Colección de listas de palabras sobre Argentina, en archivos `.txt` de texto pl
 - La lista de discos argentinos se descartó por falta de datos confiables.
 
 ## Otros archivos
-- `generar_pins.py`: 100.000.000 de PINs numéricos de 8 dígitos (`00000000`–`99999999`), uno por línea.
+
+- `alfanum.py`: genera variantes alfanuméricas (palabra + sufijo numérico) a partir de las palabras más comunes del español y nombres/apellidos de Faker.
+- `pin.txt`: 100.000.000 de PINs numéricos de 8 dígitos (`00000000`–`99999999`), uno por línea.
 
 ## Carpeta `generadores/`
 
@@ -92,3 +94,21 @@ Convención de nombres:
 - Salida: `wordlist_<categoria1>_<categoria2>[_<categoria3>].txt` (se escribe siempre en la raíz del proyecto, sin importar desde dónde se ejecute el script)
 
 La lógica común (limpieza de texto, armado de combinaciones, resolución de rutas) vive en `nucleo_wordlist.py`; cada `generar_*.py` solo declara sus archivos de entrada y de salida.
+
+### Quick start
+
+```bash
+git clone https://github.com/nruizneiman/dictionaries.git
+cd dictionaries
+python generadores/generar_mascotas_anios.py
+```
+
+Salida esperada:
+
+```
+naturaleza/mascotas.txt: 570 palabras unicas
+cosas/fechas_anios_argentina.txt: 321 palabras unicas
+TOTAL: 168,111 lineas en 'wordlist_mascotas_anios.txt' (0.0s)
+```
+
+El archivo generado (`wordlist_mascotas_anios.txt`) queda en la raíz del repo y no se versiona (ver `.gitignore`). Funciona igual si lo corrés desde la raíz del repo o desde adentro de `generadores/`.
