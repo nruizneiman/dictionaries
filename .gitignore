@@ -1,8 +1,5 @@
 # Wordlists generadas (pueden pesar varios GB, no se versionan)
 output/
-pin.txt
-num.txt
-alfanum.txt
 
 __pycache__/
 *.pyc
