@@ -80,11 +80,6 @@ Colección de listas de palabras sobre Argentina, en archivos `.txt` de texto pl
 - `famosos_y_artistas.txt` mezcla personas actuales e históricas, y artistas con deportistas, políticos y empresarios.
 - La lista de discos argentinos se descartó por falta de datos confiables.
 
-## Otros archivos
-
-- `alfanum.py`: genera variantes alfanuméricas (palabra + sufijo numérico) a partir de las palabras más comunes del español y nombres/apellidos de Faker.
-- `pin.txt`: 100.000.000 de PINs numéricos de 8 dígitos (`00000000`–`99999999`), uno por línea.
-
 ## Carpeta `generadores/`
 
 Scripts que combinan líneas de dos o tres de las listas anteriores para armar wordlists de contraseñas (por ejemplo `nombres.txt` + `apellidos.txt` + `fechas_anios_argentina.txt` → `JuanPerez1990`). Cada combinación resultante se filtra para quedarse solo con los largos de 8 a 10 caracteres, sin tildes ni espacios.
