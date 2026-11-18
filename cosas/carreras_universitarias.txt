@@ -1,0 +1,278 @@
+Abogacía
+Contador Público
+Licenciatura en Administración
+Licenciatura en Economía
+Licenciatura en Comercio Exterior
+Licenciatura en Comercio Internacional
+Licenciatura en Marketing
+Licenciatura en Recursos Humanos
+Licenciatura en Relaciones del Trabajo
+Licenciatura en Relaciones Internacionales
+Licenciatura en Ciencia Política
+Licenciatura en Sociología
+Licenciatura en Trabajo Social
+Licenciatura en Psicología
+Licenciatura en Psicopedagogía
+Licenciatura en Educación
+Licenciatura en Ciencias de la Educación
+Licenciatura en Filosofía
+Licenciatura en Historia
+Licenciatura en Geografía
+Licenciatura en Letras
+Licenciatura en Lingüística
+Licenciatura en Antropología
+Licenciatura en Arqueología
+Licenciatura en Artes Visuales
+Licenciatura en Artes Audiovisuales
+Licenciatura en Música
+Licenciatura en Composición Musical
+Licenciatura en Danza
+Licenciatura en Teatro
+Licenciatura en Comunicación Social
+Licenciatura en Periodismo
+Licenciatura en Publicidad
+Licenciatura en Diseño Gráfico
+Licenciatura en Diseño Industrial
+Licenciatura en Diseño de Indumentaria
+Licenciatura en Diseño de Interiores
+Licenciatura en Diseño de Imagen y Sonido
+Licenciatura en Turismo
+Licenciatura en Hotelería
+Licenciatura en Gastronomía
+Licenciatura en Nutrición
+Licenciatura en Enfermería
+Licenciatura en Kinesiología
+Licenciatura en Fonoaudiología
+Licenciatura en Terapia Ocupacional
+Licenciatura en Obstetricia
+Licenciatura en Bioquímica
+Licenciatura en Biología
+Licenciatura en Química
+Licenciatura en Física
+Licenciatura en Matemática
+Licenciatura en Astronomía
+Licenciatura en Geología
+Licenciatura en Ciencias de la Atmósfera
+Licenciatura en Oceanografía
+Licenciatura en Ciencias Ambientales
+Licenciatura en Genética
+Licenciatura en Biotecnología
+Licenciatura en Ciencias de la Computación
+Licenciatura en Sistemas
+Licenciatura en Sistemas de Información
+Licenciatura en Informática
+Licenciatura en Ciencia de Datos
+Licenciatura en Estadística
+Licenciatura en Actuario
+Licenciatura en Seguridad e Higiene
+Licenciatura en Seguridad Pública
+Licenciatura en Logística
+Licenciatura en Gestión Ambiental
+Licenciatura en Gestión de Medios
+Licenciatura en Bibliotecología
+Licenciatura en Museología
+Licenciatura en Conservación y Restauración
+Licenciatura en Educación Física
+Licenciatura en Deporte
+Licenciatura en Gestión Deportiva
+Licenciatura en Criminalística
+Licenciatura en Criminología
+Licenciatura en Seguridad Ciudadana
+Licenciatura en Ciencias Biológicas
+Licenciatura en Ciencias Geológicas
+Licenciatura en Ciencias Químicas
+Licenciatura en Ciencias Físicas
+Licenciatura en Ciencias Matemáticas
+Licenciatura en Ciencias Antropológicas
+Licenciatura en Ciencias de la Comunicación
+Licenciatura en Ciencias Políticas
+Licenciatura en Ciencias Económicas
+Licenciatura en Ciencias Jurídicas
+Medicina
+Odontología
+Veterinaria
+Farmacia
+Arquitectura
+Ingeniería Civil
+Ingeniería Industrial
+Ingeniería Mecánica
+Ingeniería Eléctrica
+Ingeniería Electrónica
+Ingeniería Electromecánica
+Ingeniería Química
+Ingeniería en Sistemas de Información
+Ingeniería en Informática
+Ingeniería en Telecomunicaciones
+Ingeniería Agronómica
+Ingeniería Forestal
+Ingeniería Ambiental
+Ingeniería en Alimentos
+Ingeniería en Petróleo
+Ingeniería en Minas
+Ingeniería Naval
+Ingeniería Aeronáutica
+Ingeniería Biomédica
+Ingeniería Nuclear
+Ingeniería en Materiales
+Ingeniería Hidráulica
+Ingeniería en Agrimensura
+Ingeniería en Recursos Hídricos
+Ingeniería Zootecnista
+Ingeniería en Seguridad Informática
+Ingeniería en Mecatrónica
+Ingeniería en Automatización
+Ingeniería Textil
+Ingeniería Pesquera
+Ingeniería en Energía
+Ingeniería en Producción Agropecuaria
+Agrimensura
+Agronomía
+Zootecnia
+Escribanía
+Traductorado Público
+Traductorado de Inglés
+Traductorado de Francés
+Traductorado de Portugués
+Profesorado de Educación Inicial
+Profesorado de Educación Primaria
+Profesorado de Educación Secundaria
+Profesorado de Matemática
+Profesorado de Lengua y Literatura
+Profesorado de Historia
+Profesorado de Geografía
+Profesorado de Biología
+Profesorado de Física
+Profesorado de Química
+Profesorado de Inglés
+Profesorado de Educación Física
+Profesorado de Educación Especial
+Profesorado de Música
+Profesorado de Artes Visuales
+Profesorado de Teatro
+Profesorado de Filosofía
+Profesorado de Informática
+Tecnicatura en Programación
+Tecnicatura en Análisis de Sistemas
+Tecnicatura en Redes
+Tecnicatura en Ciberseguridad
+Tecnicatura en Desarrollo de Software
+Tecnicatura en Higiene y Seguridad
+Tecnicatura en Administración
+Tecnicatura en Gestión Pública
+Tecnicatura en Hotelería
+Tecnicatura en Turismo
+Tecnicatura en Enfermería
+Tecnicatura en Radiología
+Tecnicatura en Laboratorio
+Tecnicatura en Emergencias Médicas
+Tecnicatura en Prótesis Dental
+Tecnicatura en Óptica
+Tecnicatura en Mantenimiento Industrial
+Tecnicatura en Electrónica
+Tecnicatura en Mecánica
+Tecnicatura en Construcciones
+Tecnicatura en Alimentos
+Tecnicatura en Producción Agropecuaria
+Tecnicatura en Diseño
+Tecnicatura en Fotografía
+Tecnicatura en Sonido
+Tecnicatura en Realización Audiovisual
+Tecnicatura en Gastronomía
+Tecnicatura en Cocina
+Tecnicatura en Pastelería
+Tecnicatura en Cervecería
+Tecnicatura en Enología
+Tecnicatura en Mediación
+Tecnicatura en Seguridad Pública
+Tecnicatura en Bomberos
+Tecnicatura en Comercio Exterior
+Tecnicatura en Logística
+Tecnicatura en Marketing
+Tecnicatura en Publicidad
+Tecnicatura en Periodismo
+Tecnicatura en Locución
+Tecnicatura en Archivología
+Tecnicatura en Bibliotecología
+Tecnicatura en Museología
+Tecnicatura en Traducción
+Tecnicatura en Interpretación
+Tecnicatura en Artes del Fuego
+Tecnicatura en Cerámica
+Tecnicatura en Joyería
+Tecnicatura en Luthería
+Tecnicatura en Cine
+Tecnicatura en Animación
+Tecnicatura en Videojuegos
+Tecnicatura en Ciencia de Datos
+Tecnicatura en Inteligencia Artificial
+Tecnicatura en Robótica
+Tecnicatura en Energías Renovables
+Tecnicatura en Gestión Ambiental
+Tecnicatura en Apicultura
+Tecnicatura en Viticultura
+Tecnicatura en Veterinaria
+Tecnicatura en Peluquería
+Tecnicatura en Estética
+Tecnicatura en Podología
+Tecnicatura en Masajes
+Tecnicatura en Deportes
+Maestría en Administración
+Maestría en Economía
+Maestría en Ciencia de Datos
+Maestría en Derecho
+Maestría en Educación
+Maestría en Salud Pública
+Doctorado en Ciencias
+Doctorado en Derecho
+Doctorado en Medicina
+Doctorado en Psicología
+Doctorado en Filosofía
+Doctorado en Historia
+Doctorado en Letras
+Doctorado en Ingeniería
+Doctorado en Economía
+MBA
+Especialización en Derecho Laboral
+Especialización en Derecho Penal
+Especialización en Docencia Universitaria
+Especialización en Gestión Pública
+Residencia Médica
+Residencia en Clínica Médica
+Residencia en Pediatría
+Residencia en Cirugía
+Residencia en Cardiología
+Residencia en Psiquiatría
+Ciencias Agropecuarias
+Bioquímica y Farmacia
+Paramédicas y Auxiliares de la Medicina
+Salud Pública
+Sanidad
+Ciencias de la Información y de la Comunicación
+Ciencias Políticas, Relaciones Internacionales y Diplomacia
+Demografía y Geografía
+Derecho
+Economía y Administración
+Educación
+Otras Ciencias Aplicadas
+Otras Ciencias Sociales
+Psicología
+Sociología, Antropología y Servicio Social
+Biología
+Física
+Industrias
+Informática
+Matemática
+Química
+Astronomía
+Ciencias del Suelo
+Estadística
+Meteorología
+Artes
+Filosofía
+Historia
+Letras e Idiomas
+Relaciones Institucionales y Humanas
+Teología
+Arqueología
+Arquitectura y Diseño
+Ingeniería

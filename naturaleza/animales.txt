@@ -1,0 +1,274 @@
+perro
+gato
+caballo
+vaca
+toro
+buey
+ternero
+oveja
+cordero
+carnero
+cabra
+chivo
+cabrito
+cerdo
+chancho
+jabalí
+burro
+asno
+mula
+llama
+alpaca
+vicuña
+guanaco
+conejo
+liebre
+cobayo
+cuis
+hámster
+ratón
+rata
+ardilla
+castor
+nutria
+carpincho
+capibara
+coipo
+vizcacha
+chinchilla
+tuco-tuco
+mara
+liebre patagónica
+zorro
+zorro gris
+zorro colorado
+aguará guazú
+lobo
+lobo de mar
+elefante marino
+foca
+lobo marino
+león marino
+ballena
+ballena franca
+orca
+delfín
+tonina
+puma
+yaguareté
+jaguar
+ocelote
+gato montés
+gato andino
+gato del pajonal
+margay
+yaguarundí
+oso hormiguero
+oso melero
+tamandúa
+tatú
+mulita
+peludo
+piche
+quirquincho
+pichiciego
+cerdo del monte
+pecarí
+tapir
+anta
+ciervo
+ciervo de los pantanos
+venado
+taruca
+huemul
+pudú
+coatí
+zorrino
+hurón
+comadreja
+murciélago
+mono carayá
+mono caí
+aullador
+mono aullador
+mono nocturno
+ñandú
+ñandú petiso
+choique
+avestruz
+cóndor
+águila mora
+águila coronada
+halcón peregrino
+chimango
+carancho
+caracara
+gavilán
+aguilucho
+lechuza
+búho
+ñacurutú
+tero
+teruteru
+hornero
+benteveo
+zorzal
+calandria
+jilguero
+cardenal
+boyero
+pirincho
+cotorra
+loro hablador
+guacamayo
+tucán
+picaflor
+colibrí
+chingolo
+gorrión
+paloma
+torcaza
+tórtola
+perdiz
+martineta
+inambú
+pato
+pato criollo
+pato overo
+ganso
+cisne
+cisne de cuello negro
+flamenco
+flamenco austral
+garza
+garza mora
+garza blanca
+cigüeña
+jabirú
+tuyuyú
+chajá
+ibis
+espátula
+gaviota
+gaviotín
+cormorán
+pingüino
+pingüino de Magallanes
+pingüino rey
+pingüino emperador
+albatros
+petrel
+skúa
+pelícano
+loica
+churrinche
+yal
+tordo
+mirlo
+zorzal chalchalero
+urraca
+cuervo
+sapo
+rana
+ranita
+escuerzo
+sapo cururú
+yarará
+yarará ñata
+víbora de coral
+boa
+boa curiyú
+anaconda
+lampalagua
+cascabel
+culebra
+lagarto overo
+iguana
+teyú
+yacaré
+yacaré overo
+yacaré negro
+tortuga
+tortuga terrestre
+tortuga de río
+dorado
+surubí
+pacú
+sábalo
+boga
+pejerrey
+bagre
+tararira
+salmón
+trucha
+trucha arcoíris
+trucha marrón
+merluza
+lenguado
+corvina
+pescadilla
+anchoita
+caballa
+atún
+tiburón
+gatuzo
+raya
+pulpo
+calamar
+mejillón
+almeja
+cangrejo
+langosta
+langostino
+camarón
+centolla
+vieira
+caracol
+babosa
+lombriz
+hormiga
+hormiga cortadora
+abeja
+avispa
+abejorro
+mariposa
+polilla
+libélula
+mosca
+mosquito
+tábano
+pulga
+piojo
+garrapata
+chinche
+vinchuca
+cucaracha
+grillo
+chicharra
+cigarra
+mantis
+escarabajo
+bicho bolita
+araña
+araña pollito
+tarántula
+escorpión
+alacrán
+ciempiés
+milpiés
+bicho canasto
+luciérnaga
+vaquita de San Antonio
+gallina
+gallo
+pollo
+pavo
+pato doméstico
+ganso doméstico
+gallina de Guinea
+paloma mensajera
+canario
+periquito
+cotorrita
+cacatúa
+jilguero dorado

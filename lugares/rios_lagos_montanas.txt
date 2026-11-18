@@ -1,0 +1,377 @@
+Río de la Plata
+Río Paraná
+Río Uruguay
+Río Paraguay
+Río Pilcomayo
+Río Bermejo
+Río Salado
+Río Dulce
+Río Negro
+Río Colorado
+Río Limay
+Río Neuquén
+Río Chubut
+Río Santa Cruz
+Río Gallegos
+Río Deseado
+Río Senguerr
+Río Cinco
+Río Tercero
+Río Cuarto
+Río Primero
+Río Segundo
+Río Quinto
+Río Carcarañá
+Río Salí
+Río Juramento
+Río Pasaje
+Río San Juan
+Río Mendoza
+Río Tunuyán
+Río Diamante
+Río Atuel
+Río Desaguadero
+Río Bermejito
+Río Iguazú
+Río Paraná de las Palmas
+Río Luján
+Río Reconquista
+Río Matanza
+Riachuelo
+Río Samborombón
+Río Sauce Grande
+Río Quequén
+Río Gualeguay
+Río Gualeguaychú
+Río Mocoretá
+Río Miriñay
+Río Aguapey
+Río Santa Lucía
+Río Corriente
+Río Guayquiraró
+Río Feliciano
+Río Nogoyá
+Río Tala
+Río Epuyén
+Río Futaleufú
+Río Puelo
+Río Manso
+Río Azul
+Río Bonito
+Río Hua Hum
+Río Collón Curá
+Río Aluminé
+Río Catán Lil
+Río Malleo
+Río Chimehuín
+Río Quilquihue
+Río Traful
+Río Pichi Leufú
+Río Agrio
+Río Barrancas
+Río Grande
+Río Jáchal
+Río Seco
+Río Santiago
+Río Vinchina
+Río Abaucán
+Río de Oro
+Río Teuco
+Lago Argentino
+Lago Viedma
+Lago San Martín
+Lago Nahuel Huapi
+Lago Buenos Aires
+Lago Fagnano
+Lago Cardiel
+Lago Futalaufquen
+Lago Menéndez
+Lago Puelo
+Lago Mascardi
+Lago Gutiérrez
+Lago Moreno
+Lago Escondido
+Lago Lácar
+Lago Lolog
+Lago Huechulafquen
+Lago Meliquina
+Lago Traful
+Lago Hess
+Lago Steffen
+Lago Guillelmo
+Lago Epuyén
+Lago Rosario
+Lago Roca
+Lago Yehuin
+Lago Musters
+Lago Colhué Huapi
+Lago General Carrera
+Lago Posadas
+Lago Pueyrredón
+Lago Ghio
+Lago Belgrano
+Lago Azul
+Mar Chiquita
+Laguna Mar Chiquita
+Laguna Epecuén
+Laguna de los Padres
+Laguna Chascomús
+Laguna Setúbal
+Laguna Iberá
+Esteros del Iberá
+Laguna Blanca
+Laguna Brava
+Laguna Colorada
+Laguna del Diamante
+Laguna del Desierto
+Laguna de los Tres
+Laguna Torre
+Laguna Capri
+Laguna Esmeralda
+Laguna Azul
+Laguna La Picasa
+Laguna Los Pozuelos
+Laguna Guanacache
+Salinas Grandes
+Salar del Hombre Muerto
+Salar de Pocitos
+Salar de Arizaro
+Salar de Antofalla
+Salar de Cauchari
+Salar de Olaroz
+Salar del Rincón
+Cerro Aconcagua
+Aconcagua
+Cerro Mercedario
+Cerro Bonete
+Cerro Tupungato
+Cerro Ojos del Salado
+Cerro Pissis
+Cerro Fitz Roy
+Fitz Roy
+Cerro Torre
+Cerro Chaltén
+Cerro Tronador
+Cerro Catedral
+Cerro Otto
+Cerro López
+Cerro Challhuaco
+Cerro Mirador
+Cerro Uritorco
+Cerro Champaquí
+Cerro Colorado
+Cerro de los Siete Colores
+Cerro Hornocal
+Cerro Zapaleri
+Cerro Llullaillaco
+Cerro Famatina
+Cerro General Belgrano
+Cerro Tolosa
+Cerro Vicuñas
+Cerro Marmolejo
+Cerro Plomo
+Cerro Cuerno
+Cerro Penitentes
+Cerro Punta Negra
+Cerro Lanín
+Volcán Lanín
+Volcán Domuyo
+Volcán Copahue
+Volcán Tromen
+Volcán Peteroa
+Volcán Maipo
+Volcán Payún Matrú
+Cordillera de los Andes
+Cordillera del Viento
+Cordillera Frontal
+Cordillera Principal
+Cordillera Oriental
+Precordillera
+Sierras Pampeanas
+Sierra de Córdoba
+Sierra de la Ventana
+Sierra de Tandil
+Sierra de Famatina
+Sierra de Velasco
+Sierra de Ancasti
+Sierra de Aconquija
+Sierra de Guasayán
+Sierra de Comechingones
+Sierra Grande
+Sierra Chica
+Sierra de San Luis
+Sierra de los Comechingones
+Sierras de Tandilia
+Sierras Australes
+Sierra de Calilegua
+Sierra de Santa Bárbara
+Sierra de Zenta
+Cumbres Calchaquíes
+Valle Fértil
+Valle de la Luna
+Valle de Uco
+Valle de Punilla
+Valle de Traslasierra
+Valle de Calamuchita
+Valle Calchaquí
+Valle Grande
+Valle de Tafí
+Valle de Lerma
+Valle de Catamarca
+Valle de Famatina
+Valle de Hualfín
+Quebrada de Humahuaca
+Quebrada de Cafayate
+Quebrada de las Conchas
+Quebrada del Toro
+Quebrada de Escoipe
+Garganta del Diablo
+Cataratas del Iguazú
+Salto Bossetti
+Salto Mbigua
+Saltos del Moconá
+Cataratas del Moconá
+Salto Encantado
+Salto Kuña Pirú
+Saltos del Tabay
+Canal Beagle
+Estrecho de Magallanes
+Estrecho de Le Maire
+Isla Grande de Tierra del Fuego
+Isla de los Estados
+Isla Martín García
+Isla Victoria
+Isla Huemul
+Isla Redonda
+Isla Bartolomé
+Isla Gable
+Isla Choele Choel
+Isla Apipé
+Isla Yacyretá
+Isla del Cerrito
+Islas Malvinas
+Islas Georgias del Sur
+Islas Sandwich del Sur
+Península Valdés
+Península Mitre
+Punta Delgada
+Punta Norte
+Punta Tombo
+Punta Rasa
+Punta Médanos
+Punta Indio
+Punta Piedras
+Punta Alta
+Cabo Vírgenes
+Cabo San Antonio
+Cabo Corrientes
+Cabo Blanco
+Cabo San Pablo
+Cabo Domingo
+Cabo de Hornos
+Golfo San Jorge
+Golfo San Matías
+Golfo Nuevo
+Golfo San José
+Golfo Mouras
+Bahía Blanca
+Bahía Samborombón
+Bahía San Blas
+Bahía Bustamante
+Bahía Camarones
+Bahía Lapataia
+Bahía San Sebastián
+Bahía Thetis
+Bahía Aguirre
+Bahía Ushuaia
+Bahía Engaño
+Pampa
+Pampa Húmeda
+Pampa Seca
+Pampa de Achala
+Gran Chaco
+Chaco Austral
+Chaco Húmedo
+Chaco Seco
+Delta del Paraná
+Delta del Tigre
+Patagonia
+Patagonia Andina
+Patagonia Austral
+Mesopotamia
+Cuyo
+Noroeste Argentino
+Noreste Argentino
+Litoral
+Puna
+Puna de Atacama
+Altiplano
+Meseta Patagónica
+Meseta de Somuncurá
+Meseta del Lago Buenos Aires
+Meseta de Strobel
+Campo de Hielo Patagónico Sur
+Glaciar Perito Moreno
+Glaciar Upsala
+Glaciar Viedma
+Glaciar Spegazzini
+Glaciar Onelli
+Glaciar Martial
+Glaciar Vinciguerra
+Glaciar Mayo
+Glaciar Agassiz
+Glaciar Frías
+Glaciar Castaño Overo
+Glaciar Torre
+Glaciar Piedras Blancas
+Glaciar Marconi
+Glaciar Moreno
+Parque Nacional Iguazú
+Parque Nacional Nahuel Huapi
+Parque Nacional Los Glaciares
+Parque Nacional Tierra del Fuego
+Parque Nacional Lanín
+Parque Nacional Los Alerces
+Parque Nacional Lago Puelo
+Parque Nacional Perito Moreno
+Parque Nacional Calilegua
+Parque Nacional Baritú
+Parque Nacional El Palmar
+Parque Nacional Talampaya
+Parque Nacional Ischigualasto
+Parque Nacional Quebrada del Condorito
+Parque Nacional Sierra de las Quijadas
+Parque Nacional Chaco
+Parque Nacional Río Pilcomayo
+Parque Nacional Copo
+Parque Nacional El Rey
+Parque Nacional Laguna Blanca
+Parque Nacional Los Cardones
+Parque Nacional Los Arrayanes
+Parque Nacional Monte León
+Parque Nacional Patagonia
+Parque Nacional Bosques Petrificados
+Parque Nacional San Guillermo
+Parque Nacional Campos del Tuyú
+Reserva Natural Costanera Sur
+Reserva Natural Punta Tombo
+Reserva Natural Península Valdés
+Reserva Natural Ñacuñán
+Reserva Natural Laguna de Llancanelo
+Reserva Provincial Ischigualasto
+Parque Provincial Aconcagua
+Parque Provincial Volcán Tupungato
+Parque Provincial Moconá
+Parque Provincial Cruce Caballero
+Parque Provincial Urugua-í
+Parque Provincial Salto Encantado
+Parque Provincial Cañón del Atuel
+Parque Provincial Payunia
+Parque Provincial Pre-Delta
+Monumento Natural Laguna de los Pozuelos
+Monumento Natural Bosques Petrificados
+Cañón del Atuel
+Cañón del Río Pinturas
+Cañón del Talampaya
+Cañón de Shimpa
+Cueva de las Manos

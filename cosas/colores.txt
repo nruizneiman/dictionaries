@@ -1,0 +1,245 @@
+Rojo
+Azul
+Verde
+Amarillo
+Negro
+Blanco
+Gris
+Naranja
+Rosa
+Violeta
+Marrón
+Celeste
+Turquesa
+Dorado
+Plateado
+Beige
+Bordó
+Lila
+Fucsia
+Magenta
+Cian
+Índigo
+Añil
+Púrpura
+Morado
+Carmesí
+Escarlata
+Granate
+Cereza
+Rubí
+Coral
+Salmón
+Durazno
+Melocotón
+Terracota
+Ladrillo
+Óxido
+Bronce
+Cobre
+Oro
+Plata
+Platino
+Cromo
+Acero
+Marfil
+Crema
+Hueso
+Perla
+Nácar
+Champagne
+Arena
+Caqui
+Café
+Chocolate
+Caramelo
+Canela
+Miel
+Ámbar
+Mostaza
+Limón
+Lima
+Oliva
+Esmeralda
+Jade
+Menta
+Pistacho
+Musgo
+Helecho
+Pino
+Bosque
+Militar
+Lechuga
+Manzana
+Aguamarina
+Azur
+Cobalto
+Zafiro
+Marino
+Petróleo
+Cielo
+Océano
+Eléctrico
+Real
+Prusia
+Lavanda
+Malva
+Orquídea
+Ciruela
+Berenjena
+Uva
+Vino
+Borravino
+Burdeos
+Frambuesa
+Fresa
+Frutilla
+Sandía
+Tomate
+Zanahoria
+Calabaza
+Mandarina
+Albaricoque
+Azafrán
+Girasol
+Canario
+Paja
+Trigo
+Maíz
+Cebada
+Tabaco
+Nogal
+Castaño
+Avellana
+Caoba
+Ébano
+Sepia
+Siena
+Umbra
+Grafito
+Plomo
+Carbón
+Ceniza
+Humo
+Pizarra
+Antracita
+Nieve
+Lino
+Algodón
+Alabastro
+Azabache
+Turquí
+Verdoso
+Rosado
+Rojizo
+Azulado
+Amarillento
+Grisáceo
+Blanquecino
+Negruzco
+Anaranjado
+Violáceo
+Pardo
+Rubio
+Moreno
+Castaño claro
+Castaño oscuro
+Rojo oscuro
+Azul oscuro
+Verde oscuro
+Rojo claro
+Azul claro
+Verde claro
+Gris claro
+Gris oscuro
+Azul marino
+Azul cielo
+Azul rey
+Azul eléctrico
+Verde esmeralda
+Verde oliva
+Verde militar
+Verde lima
+Verde menta
+Verde agua
+Rosa pastel
+Rosa chicle
+Rosa viejo
+Rojo fuego
+Rojo sangre
+Amarillo limón
+Amarillo oro
+Violeta oscuro
+Multicolor
+Arcoíris
+Transparente
+Cobrizo
+Dorada
+Plateada
+Blanca
+Negra
+Roja
+Amarilla
+Rosada
+Gris perla
+Gris plomo
+Rosa fucsia
+Turquesa claro
+Celeste claro
+Naranja oscuro
+Marrón claro
+Marrón oscuro
+Chocolate amargo
+Vainilla
+Nuez
+Almendra
+Cacao
+Moka
+Habano
+Piel
+Carne
+Tostado
+Rubio ceniza
+Fuego
+Cereza oscuro
+Rojo ladrillo
+Rojo tomate
+Rojo cereza
+Azul petróleo
+Verde botella
+Verde pino
+Verde hoja
+Verde manzana
+Verde pistacho
+Verde mar
+Verde jade
+Verde azulado
+Azul turquesa
+Azul zafiro
+Azul cobalto
+Azul acero
+Azul noche
+Azul medianoche
+Violeta azulado
+Lila claro
+Lavanda claro
+Rosa palo
+Rosa salmón
+Rosa coral
+Rosa empolvado
+Naranja quemado
+Amarillo mostaza
+Amarillo pálido
+Ocre
+Siena tostada
+Sepia oscuro
+Gris humo
+Gris ceniza
+Gris acero
+Gris grafito
+Blanco hueso
+Blanco roto
+Blanco nieve
+Blanco perla
+Negro azabache
+Negro carbón

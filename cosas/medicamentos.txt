@@ -1,0 +1,346 @@
+paracetamol
+ibuprofeno
+aspirina
+ácido acetilsalicílico
+diclofenac
+diclofenaco
+naproxeno
+ketorolac
+ketoprofeno
+nimesulida
+meloxicam
+celecoxib
+etoricoxib
+dipirona
+metamizol
+tramadol
+codeína
+morfina
+fentanilo
+oxicodona
+amoxicilina
+amoxicilina clavulánico
+ampicilina
+penicilina
+cefalexina
+cefuroxima
+ceftriaxona
+cefixima
+azitromicina
+claritromicina
+eritromicina
+ciprofloxacina
+levofloxacina
+norfloxacina
+doxiciclina
+minociclina
+tetraciclina
+trimetoprima sulfametoxazol
+metronidazol
+tinidazol
+nitrofurantoína
+clindamicina
+vancomicina
+gentamicina
+amikacina
+fluconazol
+ketoconazol
+itraconazol
+nistatina
+terbinafina
+aciclovir
+valaciclovir
+oseltamivir
+ivermectina
+albendazol
+mebendazol
+praziquantel
+cloroquina
+hidroxicloroquina
+omeprazol
+esomeprazol
+pantoprazol
+lansoprazol
+ranitidina
+famotidina
+domperidona
+metoclopramida
+ondansetrón
+loperamida
+bisacodilo
+lactulosa
+simeticona
+buscapina
+hioscina
+mesalazina
+losartán
+valsartán
+telmisartán
+irbesartán
+enalapril
+lisinopril
+ramipril
+captopril
+amlodipina
+nifedipina
+diltiazem
+verapamilo
+atenolol
+bisoprolol
+carvedilol
+propranolol
+metoprolol
+nebivolol
+hidroclorotiazida
+furosemida
+espironolactona
+clortalidona
+indapamida
+digoxina
+amiodarona
+nitroglicerina
+isosorbide
+clopidogrel
+warfarina
+acenocumarol
+rivaroxabán
+apixabán
+dabigatrán
+heparina
+enoxaparina
+atorvastatina
+rosuvastatina
+simvastatina
+pravastatina
+ezetimibe
+fenofibrato
+gemfibrozil
+metformina
+glibenclamida
+glimepirida
+gliclazida
+sitagliptina
+vildagliptina
+linagliptina
+empagliflozina
+dapagliflozina
+insulina
+insulina glargina
+insulina lispro
+levotiroxina
+metimazol
+prednisona
+prednisolona
+metilprednisolona
+dexametasona
+betametasona
+hidrocortisona
+deflazacort
+salbutamol
+budesonida
+fluticasona
+formoterol
+salmeterol
+ipratropio
+tiotropio
+montelukast
+teofilina
+loratadina
+desloratadina
+cetirizina
+fexofenadina
+clorfeniramina
+difenhidramina
+bilastina
+ambroxol
+bromhexina
+acetilcisteína
+dextrometorfano
+guaifenesina
+pseudoefedrina
+fenilefrina
+oximetazolina
+xilometazolina
+alprazolam
+clonazepam
+diazepam
+lorazepam
+bromazepam
+zolpidem
+melatonina
+fluoxetina
+sertralina
+escitalopram
+citalopram
+paroxetina
+venlafaxina
+duloxetina
+mirtazapina
+amitriptilina
+bupropión
+litio
+valproato
+ácido valproico
+carbamazepina
+lamotrigina
+levetiracetam
+topiramato
+fenitoína
+fenobarbital
+gabapentina
+pregabalina
+risperidona
+olanzapina
+quetiapina
+aripiprazol
+haloperidol
+clozapina
+metilfenidato
+donepezilo
+memantina
+levodopa
+pramipexol
+sumatriptán
+rizatriptán
+ciclobenzaprina
+tizanidina
+baclofeno
+tamsulosina
+finasterida
+dutasterida
+sildenafil
+tadalafil
+estradiol
+progesterona
+levonorgestrel
+drospirenona
+etinilestradiol
+clomifeno
+misoprostol
+oxitocina
+alendronato
+ácido zoledrónico
+calcio
+vitamina D
+colecalciferol
+vitamina C
+vitamina B12
+cianocobalamina
+ácido fólico
+hierro
+sulfato ferroso
+zinc
+magnesio
+potasio
+omega 3
+tafirol
+ibupirac
+actron
+mejoral
+geniol
+sertal
+uvasal
+alikal
+redoxon
+supradyn
+bayaspirina
+dermaglós
+isodine
+voltaren
+cafiaspirina
+termofren
+next
+reliverán
+novalgina
+trapax
+ciproxina
+rinofluimucil
+duo-decadron
+dexalergin
+vick vaporub
+vick
+nebacetin
+bactroban
+fucidin
+lotrimin
+canesten
+mercurocromo
+alcohol en gel
+agua oxigenada
+povidona yodada
+iodopovidona
+vaselina
+lanolina
+óxido de zinc
+pasta al agua
+sulfadiazina de plata
+vacuna antigripal
+vacuna triple viral
+vacuna BCG
+vacuna Sabin
+vacuna Salk
+vacuna antitetánica
+vacuna hepatitis B
+vacuna COVID-19
+Gefitinib
+Gefinova
+Capecitabina
+Capecinova
+Lenalidomida
+Lenalinova
+Fraccion Flavonoide Purificada Y Micronizada (Diosmina 90 %, Flavonoides Expresados En Hesperidina 10 %)
+Diosmin
+Nitisinona
+Orfadin
+Dipemina
+Benzocaina - Tirotricina
+Bucasmol A
+Alergitrat L
+Tadalafilo
+Equitone
+Memantina Clorhidrato - Donepezilo Clorhidrato
+Alzetix 7/10
+Alzetix 21/10
+Eritropoyetina Humana Recombinante
+Hemastim P
+Clorhidrato De Morfina
+Morfina Gemepe
+Bicalutamida
+Dimalan
+Ibumejoral Niños 2%
+Mejoral Para Niños
+Miglustat
+Zavesca
+Misop 200
+Tramadol Clorhidrato
+Tramal Long
+Mebendazol Duncan
+Calcio Gluconato
+Calcio Gluconato Al 10%
+Clonazepam Duncan
+Gentamicina - Hidrocortisona Acetato - Ketoconazol
+Gentacler
+Glumet
+Colistimetato Sodico 
+Colistyn
+Tobramicina - Dexametasona
+Toflam
+Propionato De Fluticasona - Fumarato De Formoterol Dihidratado
+Flutiform
+Brimonidina - Brinzolamida
+Simbrinza
+Eltrombopag
+Revolade
+Bosentan
+Bosentac
+Hidroxizina Clorhidrato
+Panaler
+Folinemic
+Donepezilo Clorhidrato
+Lupracil
+Polietilenglicol 3350
+Tanesa
+Ketorolaco Trometamina
+Ketorolac Trb Pharma
+Ibrutinib
+Vilanor

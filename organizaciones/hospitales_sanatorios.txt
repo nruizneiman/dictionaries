@@ -1,0 +1,185 @@
+Hospital de Clínicas José de San Martín
+Hospital Italiano de Buenos Aires
+Hospital Alemán
+Hospital Británico
+Hospital Español
+Hospital Francés
+Hospital Fernández
+Hospital Argerich
+Hospital Ramos Mejía
+Hospital Pirovano
+Hospital Piñero
+Hospital Santojanni
+Hospital Penna
+Hospital Durand
+Hospital Álvarez
+Hospital Rivadavia
+Hospital Muñiz
+Hospital Tornú
+Hospital Udaondo
+Hospital Zubizarreta
+Hospital Vélez Sarsfield
+Hospital Garrahan
+Hospital Gutiérrez
+Hospital Elizalde
+Hospital Posadas
+Hospital El Cruce
+Hospital Eva Perón
+Hospital San Martín de La Plata
+Hospital de Niños de La Plata
+Hospital Sor María Ludovica
+Hospital Churruca
+Hospital Naval
+Hospital Militar Central
+Hospital Aeronáutico
+Hospital de Quemados
+Hospital Borda
+Hospital Moyano
+Hospital Cecilia Grierson
+Hospital Bonaparte
+Hospital Gandulfo
+Hospital Lucio Meléndez
+Hospital Magdalena Villegas de Martínez
+Hospital Lencinas
+Hospital Notti
+Hospital Humberto Notti
+Hospital Español de Mendoza
+Hospital Nacional de Clínicas de Córdoba
+Hospital Córdoba
+Hospital Misericordia
+Hospital Rawson
+Hospital Italiano de Córdoba
+Hospital Privado Universitario de Córdoba
+Hospital de Niños de la Santísima Trinidad
+Hospital Pediátrico del Niño Jesús
+Hospital Víctor J. Vilela
+Hospital Provincial de Rosario
+Hospital Centenario
+Hospital Eva Perón de Granadero Baigorria
+Hospital Carrasco
+Hospital Alassia
+Hospital Cullen
+Hospital Iturraspe
+Hospital Mira y López
+Hospital Padilla
+Hospital Centro de Salud Zenón Santillán
+Hospital Ángel C. Padilla
+Hospital Avellaneda
+Hospital Regional Ushuaia
+Hospital Regional Río Gallegos
+Hospital Regional de Comodoro Rivadavia
+Hospital Zonal Esquel
+Hospital Zonal Trelew
+Hospital Zonal Bariloche
+Hospital Ramón Carrillo
+Hospital Heller
+Hospital Castro Rendón
+Hospital Bouquet Roldán
+Hospital Francisco López Lima
+Hospital Madariaga
+Hospital Dr. Julio Perrando
+Hospital Juan Domingo Perón
+Hospital Interzonal de Agudos Pedro Fiorito
+Hospital Fiorito
+Hospital Cetrángolo
+Hospital Mariano y Luciano de la Vega
+Hospital Bernardino Rivadavia
+Hospital Vicente López
+Hospital Houssay
+Hospital Roffo
+Hospital Marie Curie
+Hospital Santa Lucía
+Hospital Ramón Sardá
+Hospital Pedro Elizalde
+Hospital Carlos Durand
+Hospital Álvarez Julio
+Hospital Ignacio Pirovano
+Hospital Enrique Tornú
+Hospital Cosme Argerich
+Hospital José María Ramos Mejía
+Hospital Parmenio Piñero
+Hospital Teodoro Álvarez
+Hospital José Penna
+Hospital Juan A. Fernández
+Hospital Donación Francisco Santojanni
+Hospital Dr. Abel Zubizarreta
+Hospital Dr. Pedro de Elizalde
+Sanatorio Güemes
+Sanatorio Otamendi
+Sanatorio Mater Dei
+Sanatorio Anchorena
+Sanatorio Finochietto
+Sanatorio Sagrado Corazón
+Sanatorio de la Trinidad
+Sanatorio Allende
+Sanatorio del Salvador
+Sanatorio Británico
+Sanatorio Parque
+Sanatorio Mapaci
+Sanatorio Americano
+Sanatorio Franchin
+Sanatorio Las Lomas
+Sanatorio Modelo
+Sanatorio Morra
+Sanatorio Italiano
+Sanatorio Boratti
+Sanatorio Pasteur
+Sanatorio San Camilo
+Sanatorio Esperanza
+Sanatorio Itoiz
+Sanatorio Anchorena San Martín
+Sanatorio Agote
+Sanatorio Dupuytren
+Sanatorio Trinidad Palermo
+Sanatorio Trinidad San Isidro
+Sanatorio Trinidad Mitre
+Sanatorio Trinidad Quilmes
+Sanatorio Trinidad Ramos Mejía
+Clínica Bazterrica
+Clínica Santa Isabel
+Clínica del Sol
+Clínica Mitre
+Clínica Olivos
+Clínica Zabala
+Clínica San Camilo
+Clínica La Sagrada Familia
+Clínica Ricardo Gutiérrez
+Clínica Modelo de Lanús
+Clínica Los Arcos
+Clínica Pueyrredón
+Clínica Estrada
+Clínica Adventista
+Clínica La Pequeña Familia
+Clínica Privada Independencia
+Clínica Cruz Azul
+Clínica de Niños y Maternidad
+Centro Médico Huésped
+Fundación Favaloro
+Fundación Cardiológica Argentina
+Instituto Fleming
+Instituto Alexander Fleming
+Instituto Lanari
+Instituto de Oncología Ángel H. Roffo
+Instituto Oulton
+Instituto Fleni
+FLENI
+Instituto Cardiovascular de Buenos Aires
+Instituto Modelo de Cardiología
+Instituto Gamma
+Instituto Argentino de Diagnóstico y Tratamiento
+Instituto Médico Platense
+Cemic
+Hospital Universitario Austral
+Hospital Universitario Fundación Favaloro
+Hospital Privado de Comunidad
+Hospital Privado Centro Médico de Córdoba
+Hospital Privado Universitario
+Policlínico Bancario
+Policlínico del Docente
+Policlínico Modelo de Lanús
+Policlínico San Martín
+Centro Gallego
+Centro Gallego de Buenos Aires
+Maternidad Sardá
+Maternidad Suizo Argentina
+Casa Cuna

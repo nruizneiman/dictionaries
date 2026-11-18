@@ -1,0 +1,441 @@
+Asado
+Empanada
+Milanesa
+Milanesa a la napolitana
+Choripán
+Locro
+Humita
+Tamal
+Pastel de papa
+Pionono
+Matambre
+Matambre a la pizza
+Provoleta
+Chorizo
+Morcilla
+Chinchulines
+Mollejas
+Riñones
+Vacío
+Entraña
+Bife de chorizo
+Ojo de bife
+Tira de asado
+Costillar
+Cuadril
+Colita de cuadril
+Lomo
+Bondiola
+Pollo al spiedo
+Pollo a la parrilla
+Cordero
+Lechón
+Cabrito
+Carbonada
+Guiso de lentejas
+Guiso de arroz
+Estofado
+Puchero
+Cazuela
+Fainá
+Pizza
+Pizza de muzzarella
+Pizza fugazzeta
+Fugazzeta
+Fugazza
+Pizzeta
+Calzone
+Ñoquis
+Ravioles
+Sorrentinos
+Canelones
+Capeletis
+Tallarines
+Fideos
+Fideos con tuco
+Lasaña
+Spaghetti
+Fettuccine
+Tortellini
+Risotto
+Polenta
+Sopa
+Sopa de verduras
+Caldo
+Puré de papas
+Papas fritas
+Papas rústicas
+Papas españolas
+Tortilla de papas
+Revuelto gramajo
+Huevo frito
+Huevos revueltos
+Tortilla
+Ensalada
+Ensalada rusa
+Ensalada mixta
+Ensalada caesar
+Ensalada de frutas
+Tomate
+Lechuga
+Zanahoria
+Cebolla
+Ajo
+Morrón
+Berenjena
+Zapallo
+Zapallito
+Calabaza
+Choclo
+Papa
+Batata
+Espinaca
+Acelga
+Brócoli
+Coliflor
+Remolacha
+Repollo
+Pepino
+Rúcula
+Palta
+Aceituna
+Champiñón
+Hongos
+Arroz
+Arroz con pollo
+Arroz con leche
+Lentejas
+Garbanzos
+Porotos
+Soja
+Pan
+Pan casero
+Pan de miga
+Pan lactal
+Pan dulce
+Pan de queso
+Pebete
+Criollitos
+Medialunas
+Facturas
+Churros
+Sacramentos
+Vigilantes
+Bolas de fraile
+Cañoncitos
+Cremona
+Tortitas negras
+Tortas fritas
+Bizcochos
+Grisines
+Galletitas
+Galletas
+Alfajor
+Alfajor de maicena
+Alfajores de dulce de leche
+Alfajor de chocolate
+Dulce de leche
+Dulce de membrillo
+Dulce de batata
+Mermelada
+Queso
+Queso cremoso
+Queso fresco
+Queso rallado
+Muzzarella
+Queso azul
+Queso de cabra
+Ricota
+Jamón
+Jamón crudo
+Jamón cocido
+Salame
+Salchichón
+Mortadela
+Panceta
+Lomito
+Sándwich de miga
+Sándwich de milanesa
+Tostado
+Lomito completo
+Hamburguesa
+Pancho
+Hot dog
+Superpancho
+Papas con cheddar
+Tacos
+Burrito
+Nachos
+Sushi
+Wok
+Ceviche
+Paella
+Tortilla española
+Gazpacho
+Pescado
+Merluza
+Salmón
+Trucha
+Surubí
+Dorado
+Pejerrey
+Atún
+Sardinas
+Calamares
+Rabas
+Langostinos
+Camarones
+Mejillones
+Pulpo
+Lenguado
+Corvina
+Flan
+Flan con dulce de leche
+Flan mixto
+Budín de pan
+Postre vigilante
+Postre balcarce
+Chocotorta
+Lemon pie
+Pavlova
+Panqueque
+Panqueque con dulce de leche
+Crepes
+Tiramisú
+Cheesecake
+Brownie
+Torta
+Torta de chocolate
+Torta de ricota
+Torta de manzana
+Torta rogel
+Torta oreo
+Torta tres leches
+Rogel
+Tarta
+Tarta de jamón y queso
+Tarta de verdura
+Tarta de calabaza
+Tarta pascualina
+Pascualina
+Quiche
+Pastelitos
+Pastafrola
+Pan de banana
+Budín
+Muffin
+Cupcake
+Donas
+Helado
+Helado de dulce de leche
+Helado de chocolate
+Helado de frutilla
+Helado de vainilla
+Sambayón
+Bombón escocés
+Chocolate
+Chocolate caliente
+Submarino
+Mousse
+Gelatina
+Garrapiñada
+Maní
+Turrón
+Mantecol
+Pastillas
+Caramelos
+Chicle
+Chupetín
+Alfeñique
+Merengue
+Marshmallow
+Palito de la selva
+Papas lays
+Pochoclo
+Galletita de agua
+Café
+Café con leche
+Cortado
+Lágrima
+Capuchino
+Mate
+Mate cocido
+Té
+Té con leche
+Jugo de naranja
+Licuado
+Smoothie
+Agua
+Soda
+Gaseosa
+Cerveza
+Vino
+Vino tinto
+Vino blanco
+Malbec
+Torrontés
+Fernet con coca
+Fernet
+Gancia
+Cinzano
+Vermut
+Whisky
+Gin
+Ron
+Vodka
+Tequila
+Champagne
+Sidra
+Clericó
+Sangría
+Terere
+Yerba
+Chimichurri
+Salsa criolla
+Salsa golf
+Salsa blanca
+Salsa fileto
+Tuco
+Pesto
+Mayonesa
+Mostaza
+Ketchup
+Aceite de oliva
+Vinagre
+Sal
+Pimienta
+Orégano
+Perejil
+Albahaca
+Ají molido
+Pimentón
+Comino
+Laurel
+Romero
+Tomillo
+Manzana
+Pera
+Banana
+Naranja
+Mandarina
+Limón
+Pomelo
+Durazno
+Ciruela
+Cereza
+Frutilla
+Frambuesa
+Arándano
+Uva
+Sandía
+Melón
+Ananá
+Kiwi
+Mango
+Papaya
+Coco
+Higo
+Membrillo
+Damasco
+Granada
+Nuez
+Almendra
+Avellana
+Castaña
+Pistacho
+Pasas de uva
+Orejones
+Zapallo en almíbar
+Mazamorra
+Api
+Quesillo
+Cayote
+Charqui
+Yacaré
+Locro criollo
+Chivito
+Cabrito al horno
+Cordero patagónico
+Truchas
+Trucha a la manteca negra
+Mollejas a la parrilla
+Empanadas tucumanas
+Empanadas salteñas
+Empanadas criollas
+Empanadas de carne
+Empanadas de jamón y queso
+Empanadas de humita
+Humita en chala
+Tamales
+Sándwich de bondiola
+Panchuque
+Paty
+Fideos al pesto
+Sorrentinos de jamón y queso
+Ñoquis del 29
+Ñoquis de papa
+Canelones de verdura
+Panzotti
+Agnolotti
+Rabioles
+Tortelettis
+Torrejas
+Tostadas
+Tostadas con palta
+Huevo duro
+Omelette
+Churrasco
+Churrasquito
+Costilla
+Falda
+Osobuco
+Peceto
+Nalga
+Paleta
+Palomita
+Carré
+Costeleta
+Pechuga
+Muslo
+Pata muslo
+Alitas
+Nuggets
+Suprema
+Suprema a la maryland
+Milanesa de pollo
+Milanesa de soja
+Milanesa de berenjena
+Milanesa de pescado
+Hamburguesa de lentejas
+Verduras grilladas
+Zapallitos rellenos
+Berenjenas en escabeche
+Escabeche
+Conserva
+Sardinas en lata
+Atún en lata
+Paté
+Pasta frola
+Pan de campo
+Chipá
+Chipá guazú
+Sopa paraguaya
+Mbeju
+Mandioca
+Mandioca frita
+Reviro
+Locro de trigo
+Quinoa
+Chía
+Granola
+Yogur
+Leche
+Manteca
+Crema
+Crema de leche
+Chantilly
+Cacao
+Harina
+Maicena
+Azúcar
+Miel

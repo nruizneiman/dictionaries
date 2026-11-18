@@ -1,0 +1,128 @@
+guitarra
+guitarra criolla
+guitarra eléctrica
+bajo
+bajo eléctrico
+contrabajo
+charango
+ronroco
+cuatro
+ukelele
+bandoneón
+acordeón
+armónica
+órgano
+piano
+piano de cola
+teclado
+sintetizador
+clavecín
+violín
+viola
+violonchelo
+arpa
+arpa paraguaya
+mandolina
+laúd
+banjo
+sitar
+bombo
+bombo legüero
+caja
+caja chayera
+redoblante
+batería
+tambor
+timbal
+tumbadora
+bongó
+conga
+cajón peruano
+cajón
+maracas
+güiro
+pandero
+triángulo
+platillos
+xilófono
+marimba
+vibráfono
+campanas
+carillón
+quena
+zampoña
+siku
+flauta
+flauta traversa
+flauta dulce
+piccolo
+oboe
+clarinete
+fagot
+saxofón
+saxo
+trompeta
+trombón
+corno
+trompa
+tuba
+bombardino
+cornetín
+erkencho
+erke
+pinkillo
+tarka
+mohoceño
+charrasca
+quijada
+bandurria
+vihuela
+tiple
+timple
+cavaquinho
+dulzaina
+gaita
+gaita gallega
+chirimía
+ocarina
+silbato
+armonio
+melódica
+cajita de música
+pito
+pandeiro
+surdo
+repique
+tamborim
+cuíca
+berimbau
+didgeridoo
+tambor mayor
+bombo con platillo
+tamboril
+txalaparta
+zurna
+duduk
+kora
+balafón
+yembé
+darbuka
+tabla
+santur
+oud
+shamisen
+koto
+erhu
+pipa
+guzheng
+gong
+tam-tam
+cítara
+dulcimer
+salterio
+zanfona
+cimbalón
+chalumeau
+arpa celta
+arpa eólica
+flautín

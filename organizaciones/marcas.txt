@@ -1,0 +1,936 @@
+Coca-Cola
+Pepsi
+Sprite
+Fanta
+7UP
+Schweppes
+Paso de los Toros
+Manaos
+Cunnington
+Secco
+Mirinda
+Powerade
+Gatorade
+Red Bull
+Monster
+Baggio
+Cepita
+Tang
+Clight
+Levité
+Ades
+Villavicencio
+Eco de los Andes
+Glaciar
+Bonaqua
+Villa del Sur
+Quilmes
+Brahma
+Stella Artois
+Budweiser
+Corona
+Heineken
+Imperial
+Andes
+Patagonia
+Salta
+Isenbeck
+Warsteiner
+Schneider
+Palermo
+Antares
+Kunstmann
+Fernet Branca
+Fernet 1882
+Cinzano
+Gancia
+Campari
+Aperol
+Martini
+Jack Daniel's
+Johnnie Walker
+Chivas Regal
+Absolut
+Smirnoff
+Bacardi
+Havana Club
+Jägermeister
+Baileys
+Trapiche
+Norton
+Rutini
+Zuccardi
+Catena Zapata
+Luigi Bosca
+Chandon
+Latitud 33
+Alma Mora
+Santa Julia
+Termidor
+Los Haroldos
+Nescafé
+La Virginia
+Cabrales
+Dolca
+Arlistan
+Nespresso
+Lavazza
+Illy
+Starbucks
+Havanna
+Taragüí
+Playadito
+Rosamonte
+Amanda
+Unión
+Cruz de Malta
+Nobleza Gaucha
+La Hoja
+Green Hills
+Twinings
+Lipton
+Cachamai
+Cañuelas
+Natura
+Cocinero
+Lira
+Presto Pronta
+Knorr
+Maggi
+Hellmann's
+Heinz
+Savora
+Dánica
+Cada Día
+Lucchetti
+Matarazzo
+Don Vicente
+Marolio
+Molto
+Terrabusi
+Bagley
+Arcor
+Oreo
+Trakinas
+Pepitos
+Chocolinas
+Criollitas
+Express
+Diversión
+Sonrisas
+Rhodesia
+Lía
+Don Satur
+9 de Oro
+Melba
+Cerealitas
+Granix
+Mantecol
+Block
+Cofler
+Aguila
+Bon o Bon
+Rocklets
+Jorgito
+Capitán del Espacio
+Guaymallén
+Milka
+Toblerone
+Lindt
+Ferrero Rocher
+Kinder
+Nutella
+Hershey's
+M&M's
+Snickers
+Mars
+Twix
+Bounty
+Milky Way
+Kit Kat
+Cadbury
+Beldent
+Topline
+Bubbaloo
+Halls
+Mentos
+Sugus
+Billiken
+Felfort
+Georgalos
+Tofi
+Bazooka
+Rennie
+Sancor
+La Serenísima
+Mastellone
+Danone
+Activia
+Actimel
+Yogurísimo
+Ilolay
+Verónica
+La Paulina
+Milkaut
+Cremón
+Casancrem
+Finlandia
+Philadelphia
+Tregar
+La Vascongada
+Bimbo
+Fargo
+Lactal
+Granja del Sol
+Cabaña Argentina
+Paty
+Swift
+Quickfood
+Campo Austral
+Cuatro Pasos
+Plusbelle
+Sedal
+Pantene
+Dove
+Rexona
+Axe
+Lux
+Palmolive
+Colgate
+Oral-B
+Sensodyne
+Listerine
+Gillette
+Schick
+Nivea
+Avon
+Ésika
+L'Oréal
+Garnier
+Elvive
+Maybelline
+Revlon
+MAC
+Clinique
+Estée Lauder
+Lancôme
+Dior
+Chanel
+Givenchy
+Paco Rabanne
+Hugo Boss
+Calvin Klein
+Armani
+Versace
+Carolina Herrera
+Nina Ricci
+Lacoste
+Benetton
+Tommy Hilfiger
+Ralph Lauren
+Levi's
+Wrangler
+Lee
+Diesel
+Zara
+H&M
+Mango
+Bershka
+Pull&Bear
+Stradivarius
+Uniqlo
+Forever 21
+Gap
+Old Navy
+Nike
+Adidas
+Puma
+Reebok
+Fila
+Topper
+Penalty
+Olympikus
+Converse
+Vans
+New Balance
+Asics
+Mizuno
+Under Armour
+Umbro
+Kappa
+Lotto
+Le Coq Sportif
+Montagne
+Columbia
+The North Face
+Salomon
+Merrell
+Timberland
+Caterpillar
+Hush Puppies
+Dr. Martens
+Crocs
+Havaianas
+Ipanema
+Rapsodia
+Kosiuko
+Cheeky
+Mimo & Co
+Grisino
+Complot
+Ayres
+Wanama
+Vitamina
+Yagmour
+Cuesta Blanca
+Etiqueta Negra
+Prüne
+Cardón
+Mishka
+Legacy
+Paula Cahen d'Anvers
+Tucci
+Hermès
+Louis Vuitton
+Gucci
+Prada
+Fendi
+Burberry
+Cartier
+Rolex
+Omega
+Casio
+Swatch
+Tissot
+Seiko
+Citizen
+Fossil
+Ray-Ban
+Oakley
+Persol
+Apple
+iPhone
+iPad
+MacBook
+Samsung
+Galaxy
+Motorola
+Nokia
+Xiaomi
+Huawei
+Oppo
+Realme
+LG
+Sony
+PlayStation
+Xbox
+Nintendo
+Sega
+Atari
+Dell
+HP
+Lenovo
+Asus
+Acer
+Toshiba
+Intel
+AMD
+Nvidia
+Microsoft
+Windows
+Office
+Google
+Android
+Chrome
+YouTube
+Gmail
+Facebook
+Instagram
+WhatsApp
+Messenger
+Twitter
+TikTok
+Snapchat
+Pinterest
+LinkedIn
+Reddit
+Twitch
+Discord
+Telegram
+Signal
+Zoom
+Skype
+Slack
+Netflix
+Disney+
+HBO Max
+Prime Video
+Spotify
+Deezer
+Apple Music
+SoundCloud
+Amazon
+eBay
+AliExpress
+Shein
+Temu
+Mercado Libre
+Mercado Pago
+Despegar
+Booking
+Airbnb
+Uber
+Cabify
+DiDi
+Rappi
+PedidosYa
+Glovo
+Tesla
+Toyota
+Ford
+Chevrolet
+Volkswagen
+Fiat
+Peugeot
+Renault
+Citroën
+Nissan
+Honda
+Hyundai
+Kia
+Mazda
+Subaru
+Suzuki
+Mitsubishi
+BMW
+Mercedes-Benz
+Audi
+Porsche
+Volvo
+Jeep
+Dodge
+Chrysler
+Land Rover
+Jaguar
+Mini
+Ferrari
+Lamborghini
+Maserati
+Alfa Romeo
+Bugatti
+Bentley
+Rolls-Royce
+Aston Martin
+McLaren
+Chery
+BYD
+Geely
+JAC
+Great Wall
+Haval
+Yamaha
+Kawasaki
+Harley-Davidson
+Ducati
+Triumph
+KTM
+Vespa
+Piaggio
+Zanella
+Motomel
+Gilera
+Corven
+Pirelli
+Bridgestone
+Goodyear
+Michelin
+Firestone
+Fate
+Dunlop
+Castrol
+Shell
+Elaion
+Mobil
+Valvoline
+Havoline
+YPF
+Axion
+Petrobras
+Bosch
+Philips
+Osram
+Whirlpool
+Drean
+Patrick
+Longvie
+Orbis
+Peabody
+Atma
+Liliana
+Ultracomb
+Philco
+BGH
+Noblex
+RCA
+Admiral
+Electrolux
+Gafa
+Eskabe
+Frávega
+Garbarino
+Musimundo
+Carrefour
+Coto
+Jumbo
+Disco
+Vea
+Walmart
+Costco
+Makro
+Diarco
+Vital
+Nini
+Changomás
+La Anónima
+Easy
+Sodimac
+Leroy Merlin
+Homecenter
+Falabella
+Ikea
+Farmacity
+Tafirol
+Ibupirac
+Actron
+Aspirina
+Dpast
+Redoxon
+Bayaspirina
+Sertal
+Buscapina
+Reliverán
+Dermaglós
+Isodine
+Voltaren
+Cafiaspirina
+Termofren
+Next
+Geniol
+Mejoral
+Alikal
+Uvasal
+Bagó
+Roemmers
+Elea
+Gador
+Pfizer
+Roche
+Novartis
+Sanofi
+Bayer
+Johnson & Johnson
+Pampers
+Huggies
+Babysec
+Siempre Libre
+Always
+Ladysoft
+Nosotras
+Higienol
+Elite
+Campanita
+Scott
+Sussex
+Ala
+Skip
+Ariel
+Drive
+Ace
+Magistral
+Cif
+Mr Músculo
+Procenex
+Lysoform
+Poett
+Vanish
+Mistol
+Odex
+Raid
+Off
+Glade
+Febreze
+Fabuloso
+Downy
+Vivere
+Comfort
+Rinso
+Bref
+Harpic
+Pato Purific
+Duracell
+Energizer
+Rayovac
+Eveready
+Bic
+Faber-Castell
+Staedtler
+Filgo
+Pizzini
+Maped
+Pelikan
+Sharpie
+Post-it
+3M
+Scotch
+Ezco
+Voligoma
+Poxipol
+Plasticola
+Sinteplast
+Alba
+Colorín
+Sherwin-Williams
+Tersuave
+Plavicon
+Ferrum
+FV
+Piazza
+Ilva
+Stefani
+Weber
+Klaukol
+Sika
+Loma Negra
+Holcim
+Acindar
+Aluar
+Techint
+Tenaris
+Ternium
+Siderca
+Lego
+Playmobil
+Barbie
+Hot Wheels
+Hasbro
+Mattel
+Fisher-Price
+Rasti
+Mis Ladrillos
+Tente
+Nenuco
+Monopoly
+TEG
+Uno
+Jenga
+Scrabble
+Pictionary
+Cluedo
+Genius
+Burako
+Truco
+Ludo
+Cabal
+Visa
+Mastercard
+American Express
+Naranja
+Nativa
+Banco Nación
+Banco Galicia
+Banco Santander
+Banco Macro
+BBVA
+HSBC
+ICBC
+Itaú
+Banco Patagonia
+Banco Provincia
+Banco Ciudad
+Credicoop
+Hipotecario
+Supervielle
+Ualá
+Brubank
+Naranja X
+Personal Pay
+Cuenta DNI
+Modo
+Rapipago
+Pago Fácil
+Western Union
+MoneyGram
+PayPal
+Stripe
+Binance
+Bitcoin
+Ethereum
+Claro
+Personal
+Movistar
+Telecom
+Fibertel
+Cablevisión
+Flow
+Telecentro
+DirecTV
+Supercanal
+Telefe
+El Trece
+América TV
+Canal 9
+C5N
+TN
+A24
+Clarín
+La Nación
+Infobae
+Página 12
+Perfil
+Olé
+Ámbito
+El Cronista
+Genios
+Anteojito
+Mafalda
+Condorito
+Patoruzú
+Hijitus
+Disney
+Pixar
+Marvel
+DC Comics
+Warner Bros
+Universal
+Paramount
+Columbia Pictures
+20th Century Studios
+DreamWorks
+Lucasfilm
+Cartoon Network
+Nickelodeon
+Discovery
+National Geographic
+History
+Fox
+ESPN
+TyC Sports
+Boca Juniors
+River Plate
+Racing Club
+Independiente
+San Lorenzo
+Vélez
+Estudiantes
+Gimnasia
+Newell's
+Rosario Central
+Talleres
+Belgrano
+FIFA
+UEFA
+Conmebol
+AFA
+Liga Profesional
+Copa Libertadores
+Champions League
+NBA
+NFL
+MLB
+NHL
+Fórmula 1
+MotoGP
+Dakar
+Wimbledon
+Roland Garros
+Aerolíneas Argentinas
+Flybondi
+JetSMART
+LATAM
+Avianca
+Copa Airlines
+Iberia
+Air Europa
+Lufthansa
+Emirates
+Qatar Airways
+American Airlines
+United
+Delta
+Air France
+KLM
+British Airways
+Andreani
+OCA
+Correo Argentino
+DHL
+FedEx
+UPS
+TNT
+Mercado Envíos
+McDonald's
+Burger King
+Wendy's
+KFC
+Subway
+Pizza Hut
+Domino's
+Papa John's
+Mostaza
+Freddo
+Grido
+Persicco
+Rapanui
+Chungo
+Taco Bell
+Café Martínez
+Dunkin'
+Tim Hortons
+Fresh
+McCafé
+Ben & Jerry's
+Häagen-Dazs
+Magnum
+Frigor
+Cornetto
+Pitusas
+Merengadas
+Big Mac
+Whopper
+Beyblade
+Pokémon
+Dragon Ball
+Naruto
+One Piece
+Digimon
+Yu-Gi-Oh
+Minecraft
+Fortnite
+Roblox
+Free Fire
+Call of Duty
+Among Us
+League of Legends
+Valorant
+Counter-Strike
+World of Warcraft
+Zelda
+Mario
+Sonic
+Pac-Man
+Tetris
+Candy Crush
+Angry Birds
+Clash of Clans
+Duolingo
+Coursera
+Udemy
+Khan Academy
+Wikipedia
+Google Maps
+Waze
+Tinder
+Bumble
+Badoo
+Shazam
+Canva
+Figma
+Adobe
+Photoshop
+Illustrator
+Premiere
+Acrobat
+Autodesk
+AutoCAD
+SolidWorks
+Oracle
+SAP
+Salesforce
+IBM
+Cisco
+VMware
+Red Hat
+Linux
+Ubuntu
+Debian
+Fedora
+Python
+Java
+JavaScript
+GitHub
+GitLab
+Docker
+Kubernetes
+AWS
+Azure
+Google Cloud
+OpenAI
+ChatGPT
+Claude
+Anthropic
+Gemini
+Copilot
+Midjourney
+Notion
+Trello
+Asana
+Jira
+Confluence
+Dropbox
+OneDrive
+iCloud
+WeTransfer
+Shopify
+Tienda Nube
+WooCommerce
+WordPress
+Wix
+Squarespace
+GoDaddy
+Cloudflare
+NordVPN
+ExpressVPN
+McAfee
+Kaspersky
+Avast
+ESET
+Etermax
+Globant
+Satellogic
+Technisys
+Auth0
+OLX
+Zonaprop
+Argenprop
+Navent
+Bumeran
+Computrabajo
+Indeed
+Glassdoor
+Belo
+Lemon
+Buenbit
+Ripio
+Letsbit
+Satoshi Tango
+Hilux
+Ranger
+Amarok
+Cruze
+Cronos
+Kwid
+Gol
+Fiesta
+Falcon
+Fiat 600
+Torino
+Renault 12
+2CV
+Peugeot 504
+Chevy
+Clio
+Focus
+Civic
+Corolla
+Vespa Primavera
+Piaggio Liberty

@@ -1,0 +1,418 @@
+Toyota Hilux
+Toyota Corolla
+Toyota Etios
+Toyota Yaris
+Toyota SW4
+Toyota RAV4
+Toyota Camry
+Toyota Prius
+Toyota Land Cruiser
+Toyota Corolla Cross
+Toyota Hiace
+Ford Ranger
+Ford Fiesta
+Ford Focus
+Ford Falcon
+Ford Mondeo
+Ford Ka
+Ford EcoSport
+Ford Kuga
+Ford Territory
+Ford Maverick
+Ford Escort
+Ford Taunus
+Ford Sierra
+Ford Transit
+Ford F-100
+Ford F-150
+Ford Mustang
+Ford Bronco
+Ford Orion
+Ford Galaxy
+Volkswagen Gol
+Volkswagen Gol Trend
+Volkswagen Polo
+Volkswagen Virtus
+Volkswagen Vento
+Volkswagen Golf
+Volkswagen Fox
+Volkswagen Suran
+Volkswagen Saveiro
+Volkswagen Amarok
+Volkswagen Taos
+Volkswagen T-Cross
+Volkswagen Tiguan
+Volkswagen Nivus
+Volkswagen Passat
+Volkswagen Bora
+Volkswagen Voyage
+Volkswagen Up
+Volkswagen Scirocco
+Volkswagen Escarabajo
+Volkswagen Kombi
+Volkswagen Pointer
+Volkswagen Senda
+Volkswagen Santana
+Fiat 600
+Fiat 128
+Fiat 125
+Fiat 147
+Fiat Duna
+Fiat Uno
+Fiat Palio
+Fiat Siena
+Fiat Cronos
+Fiat Argo
+Fiat Mobi
+Fiat Strada
+Fiat Toro
+Fiat Fiorino
+Fiat Ducato
+Fiat 500
+Fiat Punto
+Fiat Línea
+Fiat Tempra
+Fiat Tipo
+Fiat Regata
+Fiat Spazio
+Fiat Fastback
+Fiat Pulse
+Chevrolet Corsa
+Chevrolet Classic
+Chevrolet Cruze
+Chevrolet Onix
+Chevrolet Prisma
+Chevrolet Tracker
+Chevrolet S10
+Chevrolet Spin
+Chevrolet Aveo
+Chevrolet Agile
+Chevrolet Meriva
+Chevrolet Vectra
+Chevrolet Astra
+Chevrolet Zafira
+Chevrolet Silverado
+Chevrolet Camaro
+Chevrolet Joy
+Chevrolet Montana
+Chevrolet Equinox
+Chevrolet Trailblazer
+Chevrolet Chevette
+Chevrolet Chevy
+Chevrolet Monza
+Chevrolet Opala
+Chevrolet Blazer
+Chevrolet Suburban
+Chevrolet Captiva
+Renault Clio
+Renault Logan
+Renault Sandero
+Renault Duster
+Renault Kwid
+Renault Kangoo
+Renault Master
+Renault Megane
+Renault Fluence
+Renault Symbol
+Renault Captur
+Renault Koleos
+Renault Alaskan
+Renault Oroch
+Renault Stepway
+Renault 9
+Renault 11
+Renault 12
+Renault 18
+Renault 19
+Renault 21
+Renault 4
+Renault Twingo
+Renault Laguna
+Renault Scénic
+Renault Safrane
+Peugeot 106
+Peugeot 205
+Peugeot 206
+Peugeot 207
+Peugeot 208
+Peugeot 307
+Peugeot 308
+Peugeot 405
+Peugeot 406
+Peugeot 407
+Peugeot 504
+Peugeot 505
+Peugeot 508
+Peugeot 2008
+Peugeot 3008
+Peugeot 5008
+Peugeot Partner
+Peugeot Boxer
+Peugeot Expert
+Peugeot Landtrek
+Peugeot RCZ
+Citroën C3
+Citroën C4
+Citroën C4 Cactus
+Citroën C5
+Citroën C3 Aircross
+Citroën Berlingo
+Citroën Jumper
+Citroën Jumpy
+Citroën Xsara
+Citroën Xantia
+Citroën Saxo
+Citroën 2CV
+Citroën Méhari
+Citroën DS
+Nissan Frontier
+Nissan Versa
+Nissan March
+Nissan Sentra
+Nissan Kicks
+Nissan X-Trail
+Nissan Tiida
+Nissan Note
+Nissan Qashqai
+Nissan Murano
+Nissan Pathfinder
+Nissan Leaf
+Nissan NV350
+Honda Civic
+Honda Accord
+Honda Fit
+Honda City
+Honda HR-V
+Honda CR-V
+Honda WR-V
+Honda Pilot
+Honda Wave
+Honda CG 150
+Honda Titan
+Honda Biz
+Honda XR 150
+Honda Tornado
+Honda Africa Twin
+Honda CB
+Hyundai Tucson
+Hyundai Santa Fe
+Hyundai Creta
+Hyundai i10
+Hyundai i30
+Hyundai Elantra
+Hyundai Accent
+Hyundai H1
+Hyundai Kona
+Hyundai Veloster
+Kia Rio
+Kia Picanto
+Kia Cerato
+Kia Sportage
+Kia Sorento
+Kia Seltos
+Kia Soul
+Kia Carnival
+Kia Stonic
+Kia Niro
+Suzuki Fun
+Suzuki Swift
+Suzuki Vitara
+Suzuki Jimny
+Suzuki Baleno
+Suzuki S-Cross
+Suzuki Grand Vitara
+Suzuki Celerio
+Suzuki GN 125
+Suzuki Gixxer
+Mazda 2
+Mazda 3
+Mazda 6
+Mazda CX-5
+Mazda CX-30
+Mazda MX-5
+Subaru Impreza
+Subaru Forester
+Subaru Outback
+Subaru XV
+Mitsubishi L200
+Mitsubishi Outlander
+Mitsubishi ASX
+Mitsubishi Montero
+Mitsubishi Eclipse
+Mitsubishi Lancer
+Jeep Renegade
+Jeep Compass
+Jeep Cherokee
+Jeep Grand Cherokee
+Jeep Wrangler
+Jeep Commander
+Jeep Gladiator
+Jeep Willys
+Dodge Ram
+Dodge Journey
+Dodge Challenger
+Dodge Charger
+Mercedes-Benz Clase A
+Mercedes-Benz Clase C
+Mercedes-Benz Clase E
+Mercedes-Benz Clase S
+Mercedes-Benz Sprinter
+Mercedes-Benz Vito
+Mercedes-Benz GLA
+Mercedes-Benz GLC
+Mercedes-Benz GLE
+Mercedes-Benz G
+BMW Serie 1
+BMW Serie 3
+BMW Serie 5
+BMW X1
+BMW X3
+BMW X5
+BMW Z4
+BMW i3
+BMW R 1250 GS
+Audi A1
+Audi A3
+Audi A4
+Audi A6
+Audi Q3
+Audi Q5
+Audi Q7
+Audi TT
+Volvo XC40
+Volvo XC60
+Volvo XC90
+Volvo S60
+Volvo V40
+Land Rover Defender
+Land Rover Discovery
+Range Rover Evoque
+Range Rover Sport
+Mini Cooper
+Mini Countryman
+Porsche 911
+Porsche Cayenne
+Porsche Macan
+Ferrari 458
+Lamborghini Huracán
+Chery Tiggo
+Chery Arrizo
+Chery QQ
+BYD Dolphin
+BYD Song
+BYD Han
+BYD Yuan
+Geely Coolray
+JAC J4
+JAC S2
+Great Wall Haval H6
+Haval Jolion
+Tesla Model 3
+Tesla Model S
+Tesla Model X
+Tesla Model Y
+Iveco Daily
+Iveco Stralis
+Scania R 450
+Scania P 360
+Volvo FH
+Mercedes-Benz Actros
+Mercedes-Benz Atego
+Mercedes-Benz Accelo
+Agrale Marruá
+Agrale A10000
+Zanella ZB 110
+Zanella Due
+Zanella Styler
+Zanella RX 150
+Zanella Patagonian Eagle
+Motomel Skua
+Motomel Blitz
+Motomel CG 150
+Motomel S2
+Motomel Strato
+Gilera Smash
+Gilera VC
+Corven Hunter
+Corven Triax
+Corven Energy
+Corven Terrain
+Corven Mirage
+Bajaj Rouser
+Bajaj Dominar
+Bajaj Boxer
+Yamaha YBR 125
+Yamaha FZ
+Yamaha MT-07
+Yamaha XTZ 125
+Yamaha R3
+Yamaha Crypton
+Yamaha Fazer
+Kawasaki Ninja
+Kawasaki Z 400
+Kawasaki Versys
+Kawasaki KLX
+Harley-Davidson Sportster
+Harley-Davidson Fat Boy
+Harley-Davidson Street Glide
+Ducati Monster
+Ducati Panigale
+Triumph Bonneville
+Triumph Tiger
+KTM Duke
+KTM 390
+KTM Adventure
+Vespa Primavera
+Vespa GTS
+Piaggio Liberty
+Piaggio Zip
+Royal Enfield Classic
+Royal Enfield Meteor
+Colectivo
+Trolebús
+Tranvía
+Subte
+Tren
+Tren bala
+Metrobús
+Tren de la Costa
+Tren Patagónico
+Tren a las Nubes
+Trencito de la Quebrada
+Trochita
+Ferrocarril
+Taxi
+Remís
+Uber
+Bicisenda
+Ecobici
+Monopatín
+Bici eléctrica
+Moto
+Cuatriciclo
+Tractor
+Cosechadora
+Pulverizadora
+Sembradora
+Acoplado
+Camión
+Camioneta
+Pick-up
+Furgón
+Utilitario
+Minibús
+Combi
+Micro
+Ómnibus
+Lancha
+Velero
+Yate
+Catamarán
+Ferry
+Buquebús
+Colonia Express
+Avión
+Helicóptero
+Dron
+Planeador
+Globo aerostático
